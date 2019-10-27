@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteDemo2</string>
+    <string name="desc_title">SQLiteDemo2</string>
+    <string name="year">2019</string>
+</resources>
